@@ -1,4 +1,3 @@
-# Healthcare-Predictive-Analytics
 
 # Healthcare Predictive Analytics — Diabetes Risk Detection
 
